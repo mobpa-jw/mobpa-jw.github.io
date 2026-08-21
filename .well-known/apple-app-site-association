@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["2TXBC7N5Q5.com.jungjongwon.simplememo"],
+        "components": [
+          {
+            "/": "/memo/*",
+            "comment": "메모 딥링크 - 이관 전후 동작 비교용"
+          }
+        ]
+      }
+    ]
+  }
+}
